@@ -25,5 +25,3 @@ This repository contains **AWS Support Engineer–style case studies** demonstra
 
 ---
 
-## 📌 About This Repository
-This portfolio is
